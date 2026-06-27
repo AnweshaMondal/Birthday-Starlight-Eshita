@@ -1,0 +1,49 @@
+{
+  "birthdayDate": "2002-06-27",
+  "message": {
+    "greeting": "Happy Birthday ❤️",
+    "recipientLine": "To the most beautiful person",
+    "salutation": "My dearest Uttar Pradesh Queen —",
+    "paragraphs": [
+      "Some people make someone's whole life brighter simply by being a roommate. If it hadn't been you, I would never have seen my life — or myself — the way I do today.",
+      "No amount of sweet words could ever be enough to describe how lucky I am to have crossed paths with you, and to have you as a friend and roommate.",
+      "I don't know what good plans life still holds for me, but I can guarantee this: the last ten seconds of my life will revolve around the memories we made in our room at KIIT."
+    ],
+    "signature": "With all my heart",
+    "finalLines": ["No matter where life takes us…", "Thank you for being part of my life.", "Happy Birthday ❤️"],
+    "secret": "You found the tiny heart. Here is the secret: every version of my favorite memories has you somewhere inside it.",
+    "puzzleComplete": "Piece by piece, you make life more beautiful."
+  },
+  "photos": [
+    { "id": 1, "src": "/images/photo-1.jpeg", "alt": "A beautiful portrait in a pastel café", "caption": "The kind of moment I wish I could bottle forever.", "date": "Simply beautiful" },
+    { "id": 2, "src": "/images/photo-2.jpeg", "alt": "Two friends smiling together", "caption": "Two smiles, one very happy memory.", "date": "Sunshine found us" },
+    { "id": 3, "src": "/images/photo-3.jpeg", "alt": "A playful close-up portrait", "caption": "The wonderfully silly moments count twice.", "date": "Your playful side" },
+    { "id": 4, "src": "/images/photo-4.jpeg", "alt": "A portrait in a pink dress beneath a tree", "caption": "Some people make every frame feel brighter.", "date": "Pretty in pink" },
+    { "id": 6, "src": "/images/photo-6.jpeg", "alt": "Friends sharing a mirror moment", "caption": "Ordinary days become the best stories.", "date": "A favorite little adventure" },
+    { "id": 5, "src": "/images/photo-5.jpeg", "alt": "A smiling portrait in a pink dress", "caption": "One of a thousand reasons to smile.", "date": "Pure joy" }
+  ],
+  "secretPhotos": [
+    { "id": 7, "src": "/images/photo-7.jpeg", "alt": "A joyful candid laugh", "caption": "That laugh could light up entire rooms." },
+    { "id": 8, "src": "/images/photo-2.jpeg", "alt": "A happy memory together", "caption": "A little secret sunshine." }
+  ],
+  "memories": [
+    { "id": 1, "date": "The beginning", "title": "When our paths crossed", "text": "I did not know yet how much brighter life was about to become.", "photo": "/images/photo-11.png" },
+    { "id": 2, "date": "A favorite day", "title": "The laughter I remember", "text": "Time moved differently. Everything felt easy and exactly where it belonged.", "photo": "/images/photo-10.png" },
+    { "id": 3, "date": "Every day since", "title": "A beautiful constant", "text": "The story keeps collecting small, wonderful moments — and I treasure every one.", "photo": "/images/photo-8.png" },
+    { "id": 4, "date": "Our room at KIIT", "title": "Home felt like us", "text": "Between classes, late nights, and quiet mornings — our room became the place where the best chapters were written.", "photo": "/images/photo-9.png" }
+  ],
+  "reasons": [
+    "Your kindness", "Your brave heart", "That unforgettable laugh", "How deeply you care", "Your quiet strength", "The way you listen", "Your beautiful mind", "Your silly side", "How you make people feel seen", "Your honesty", "Your gentle soul", "The joy you bring", "Your curiosity", "How you never stop growing", "Your warm hugs", "Your patience", "Your wonderful weirdness", "The light in your eyes", "Every tiny kindness", "Simply being you"
+  ],
+  "compliments": [
+    { "id": 1, "text": "You make kindness look like a superpower." },
+    { "id": 2, "text": "Your presence turns ordinary moments into favorite memories." },
+    { "id": 3, "text": "You have the rarest kind of beauty—the kind people can feel." },
+    { "id": 4, "text": "The world is genuinely lovelier with your laugh in it." },
+    { "id": 5, "text": "You are becoming everything your younger self hoped for." },
+    { "id": 6, "text": "Your heart is a safe place, and that is extraordinary." },
+    { "id": 7, "text": "You shine without ever needing to outshine anyone." },
+    { "id": 8, "text": "Knowing you is one of life's quiet gifts." }
+  ],
+  "music": { "src": "/music/birthday-song.mp3", "title": "Our Song", "artist": "Add your favorite track" }
+}
